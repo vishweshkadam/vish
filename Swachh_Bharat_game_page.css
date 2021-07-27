@@ -1,0 +1,143 @@
+
+		* {
+			margin: 0;
+			padding: 0;
+		}
+
+		.hide {
+			display: none;
+		}
+
+		.vanish {
+
+
+			position: absolute;
+			left: 1300;
+
+			bottom: 30px;
+		}
+
+		.boy {
+			width: 150px;
+			height: 110px;
+			background-image: url('boy with broom.png');
+			position: absolute;
+			left: 50px;
+			bottom: 120px;
+		}
+		.rock_1 {
+			width: 100px;
+			height: 50px;
+			background-image: url("rock.png");
+			position: fixed;
+			left: 100px;
+			bottom: 120px;
+
+		}
+
+		
+
+		.rock_2 {
+			width: 100px;
+			height: 50px;
+			background-image: url("rock.png");
+			position: fixed;
+			left: 500px;
+			bottom: 120px;
+		}
+
+		
+		
+		.rock_3 {
+			width: 100px;
+			height: 50px;
+			background-image: url("rock.png");
+			position: fixed;
+			left: 800px;
+			bottom: 120px;
+
+		}
+
+		.body {
+			background-image: url("grasscutter2.png");
+
+			background-size: contain;
+		}
+
+		.garbag_1 {
+			width: 150px;
+			height: 100px;
+			background-image: url("apply.png");
+			position: fixed;
+			left: 900px;
+			bottom: 120px;
+
+		}
+
+		.garbag_2 {
+			width: 150px;
+			height: 50px;
+			background-image: url("raper.png");
+			position: fixed;
+			left: 600px;
+			bottom: 120px;
+
+		}
+
+		.garbag_3 {
+			width: 111px;
+			height: 100px;
+			background-image: url("bannana.png");
+			position: fixed;
+			left: 200px;
+			bottom: 120px;
+
+		}
+
+		.garbag_4 {
+			width: 151px;
+			height: 100px;
+			background-image: url("bottol.png");
+			position: fixed;
+			left: 300px;
+			bottom: 550px;
+
+		}
+
+		.garbag_5 {
+			width: 100px;
+			height: 100px;
+			background-image: url("cold drink glass.png");
+			position: fixed;
+			left: 500px;
+			bottom: 25%;
+
+
+		}
+
+		.garbag_6 {
+			width: 90px;
+			height: 65px;
+			background-image: url("glass.png");
+			position: fixed;
+			left: 500px;
+			bottom: 25%;
+
+
+		}
+
+
+		.score {
+			position: absolute;
+			top: 15px;
+			left: 40px;
+			background-color: #10ac84;
+			width: 300px;
+			line-height: 70px;
+			text-align: center;
+			color: white;
+			font-size: 1.5em;
+			font-family: fantasy;
+			box-shadow: 0 5px 5px #777;
+
+		}
